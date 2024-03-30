@@ -1,0 +1,80 @@
+*{
+
+    background-color: white;
+}
+#disney{
+    width: 800px;
+    
+}
+h1{
+
+    text-align: center;
+    color: #BB5397;
+    font-family:  'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 32px;
+    font-size: 45px;
+        
+}
+
+h2{
+    color: #BB5397; 
+    letter-spacing: 8px;
+    font-family: 'Lucida Sans';
+    padding-top: 20px;
+    font-size: 25px;
+
+}
+
+p{
+    color:#436FC1;  
+    font-family: 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#pop{
+    float: right;
+    margin-right: 5px;
+    height: 180px;
+    width: 500px;
+    margin-right: 40px;
+    margin-left: 10px;
+    
+}
+
+#beach{
+    float: left;
+    margin-right: 5px;
+    height: 200px;
+    width: 500px;
+    margin-right: 20px;
+    margin-left: 10px;
+    margin-bottom: 11px;
+    
+}
+
+#animal{
+    margin: -5px;
+}
+
+#kingdom{
+    float: right;
+    margin-right: 5px;
+    height: 200px;
+    width: 500px;
+    margin-right: 40px;
+    margin-left: 10px;
+    
+}
+#mickey{
+    height: 1400px;
+    width: 2800px;  
+}
+
+
+
+
+
+
+
+
+
